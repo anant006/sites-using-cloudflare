@@ -1281,6 +1281,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [videoyoum7.com](http://videoyoum7.com)
 - [vidspot.net](http://vidspot.net)
 - [viralnova.com](http://viralnova.com)
+- [vitaminhaat.com](http://vitaminhaat.com)
 - [vivas.fi](http://vivas.fi)
 - [vladtv.com](http://vladtv.com)
 - [vodly.to](http://vodly.to)
